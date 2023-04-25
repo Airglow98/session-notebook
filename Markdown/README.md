@@ -3,6 +3,7 @@
 ### H3
 
 **bold text**
+
 *italicized text*
 
 > blockquote
@@ -13,9 +14,9 @@ OL
 3. Third Item
 
 UL 
--First Item
--Second Item
--Third Item
+- First Item
+- Second Item
+- Third Item
 
 `code`
 
