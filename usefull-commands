@@ -18,3 +18,11 @@ code . = open branch in vscode
 git init = erstellt ein neues git Projekt
 git add name = macht eine Untracked oder Modified Datei zu einer Tracked
 Datei
+git commit = commit 
+git status = status
+git log = log
+git clone url = clone url
+git remote -v =?
+git push = push
+git pull = pull
+git fetch = take information about all branchse
