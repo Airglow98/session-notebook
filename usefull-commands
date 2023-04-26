@@ -16,5 +16,5 @@ shift Z Z = going back
 code . = open branch in vscode
 
 git init = erstellt ein neues git Projekt
-git add name = macht eine Untracked oder Modified Datwei zu einer Tracked
+git add name = macht eine Untracked oder Modified Datei zu einer Tracked
 Datei
