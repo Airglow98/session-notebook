@@ -20,3 +20,4 @@ Datei
 git commit -m"commitdescription" = commited die Tracked Datei
 git log = check git status
 git remote -v =?
+git status = check status
